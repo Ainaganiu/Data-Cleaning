@@ -1,2 +1,2 @@
-# Data-Cleaning
-This is some of data that I cleaned during my training
+# Data Analysis
+This is some of data that I that i analyzed during my training
